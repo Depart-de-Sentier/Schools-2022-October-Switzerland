@@ -1,5 +1,7 @@
 # Schedule
 
+*Note*: The schedule will be adapted during the course.
+
 ## Monday
 
 | Time | Item | Responsible |
