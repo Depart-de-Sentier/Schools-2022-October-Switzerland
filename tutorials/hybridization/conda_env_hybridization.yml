@@ -4,7 +4,6 @@ channels:
 dependencies:
     # core functionality
     - git
-    - gitpyhon
     - python=3.10
     # data science
     - pandas
