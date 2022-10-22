@@ -1,0 +1,28 @@
+name: hybridization
+channels:
+    - conda-forge
+dependencies:
+    # core functionality
+    - git
+    - python=3.10
+    # data science
+    - pandas
+    - numpy
+    - scipy
+    # jupyter
+    - jupyterlab
+    # compatibility
+    - six
+    # configuration
+    - pyyaml
+    # life-cycle assessment
+    - pymrio # required by pylcaio
+    - h5py # required by ecospold2matrix
+    - cmutel::brightway2
+    # - cmutel::brightway2_nosolver # required by pylcaio ('nosolver' to ensure smooth installation on M1)
+    # pip packages (not in any conda channel)
+    - pip
+    - pip:
+        # life-cycle assessment
+        - git+https://github.com/OASES-project/ecospold2matrix#egg=ecospold2matrix
+        - bw2agg # required by pylcaio
