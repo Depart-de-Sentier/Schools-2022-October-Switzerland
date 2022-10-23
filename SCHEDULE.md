@@ -48,7 +48,7 @@
 | *18:30 - 20:00* | *Dinner* | |
 | 20:00 - ?? | Group work | |
 
-## Wednesday
+## Thursday
 
 | Time | Item | Responsible |
 | --- | --- | --- |
