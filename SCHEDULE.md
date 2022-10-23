@@ -31,9 +31,7 @@
 | 14:00 - 16:00 | Exercise: Hybridization | Michael |
 | 16:00 - 16:30 | Theory: Geographic disaggregation | Tomas |
 | 16:30 - 17:30 | Example: Geographic disaggregation | Tomas |
-| 17:30 - 18:30 | Exercise: Geographic disaggregation | Tomas |
 | *18:30 - 20:00* | *Dinner* | |
-| 20:00 - 20:30 | Exercise: Geographic disaggregation | Tomas |
 | 20:30 - 22:00 | Group formation and topic selection | |
 
 ## Wednesday
