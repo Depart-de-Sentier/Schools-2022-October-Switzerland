@@ -10,16 +10,9 @@ A script for loading these files to the respective user directory is included wi
 
 ## Setup
 
-❓set [`BRIGHTWAY2_DIR`](https://2.docs.brightway.dev/faq.html#setting-brightway2-dir-in-a-virtual-environment)?
-
 ### 0.0.1 known error messages
 
 🌐 compare issues with the __bug__ label in the [`bw_hybrid` repository](https://github.com/michaelweinold/bw_hybrid/issues?q=is%3Aopen+is%3Aissue+label%3Abug)
-
-## Authors
-
-Michael Weinold \
-Chris Mutel
 
 ## License
 
