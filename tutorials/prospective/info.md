@@ -41,3 +41,34 @@ conda install premise
 ```
 pip install git+https://github.com/polca/premise.git
 ```
+
+## A few advices on using ``premise``
+
+- ``premise`` is a package that is still under development. 
+It may present some errors. In which case, report them to Romain Sacchi.
+
+- if you intend to run several years of a same scenario 
+(e.g., "SSP2-RCP6" from 2005 to 2050 by time step of 5 years), 
+you may want to consider export the scenarios as a 
+superstructure database (`ndb.write_db_to_superstructure("my_db")`) 
+and then run the analysis using Activity-Browser. This allows to only
+write one database to disk.
+
+- for the above case, it is better to install and run ``premise`` on 
+your computer, in a conda environment, not the school server.
+
+- running ``premise`` on the school server is possible, but it is
+difficult to fetch log files, which cna be pretty useful (especially when 
+creating user scenarios).
+
+- before writing a database to disk, you can check if it looks the way
+you want it to look by accessing from the RAM. For example,:
+
+```
+temp_db = ndb.scenarios[0]["database"]
+
+for act in temp_db:
+    for exc in act["exchanges"]:
+        if exc["type"] == "technosphere":
+            print(act["name"], exc["name"])
+```

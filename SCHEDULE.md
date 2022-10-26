@@ -27,10 +27,10 @@
 | 9:30 - 11:30 | Exercise: Correlated inventory samples | Sasha |
 | 11:30 - 12:00 | Theory: Hybridization | Michael |
 | *12:00 - 13:00* | *Lunch* | |
-| 13:00 - 14:00 | Example: Hybridization | Michael |
-| 14:00 - 16:00 | Exercise: Hybridization | Michael |
-| 16:00 - 16:30 | Theory: Geographic disaggregation | Tomas |
-| 16:30 - 17:30 | Example: Geographic disaggregation | Tomas |
+| 13:00 - 14:00 | Theory: Geographic disaggregation | Chris |
+| 14:00 - 16:00 | Example: Geographic disaggregation | Chris |
+| 16:00 - 16:30 | Example: Hybridization | Michael |
+| 16:30 - 17:30 | Exercise: Hybridization | Michael |
 | *18:30 - 20:00* | *Dinner* | |
 | 20:30 - 22:00 | Group formation and topic selection | |
 
