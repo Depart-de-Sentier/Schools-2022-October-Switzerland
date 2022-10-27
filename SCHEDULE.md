@@ -66,7 +66,6 @@
 | 9:00 - 11:50 | Group work | |
 | 11:50 - 12:00 | Photo session | |
 | *12:00 - 13:00* | *Lunch* | |
-| 13:00 - 14:30 | Group work | |
-| 14:30 - 15:30 | Project presentations | |
-| 15:30 - 16:00 | Conclusion and next steps | |
-| *16:00 - 17:30* | *Apéro* | |
+| 13:00 - 15:00 | Project presentations | |
+| 15:00 - 15:30 | Conclusion and next steps | |
+| *15:30 - 17:00* | *Apéro* | |
