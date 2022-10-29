@@ -1,5 +1,7 @@
 # Autumn School on Inventory Data Manipulation
 
+<img src="photo.jpg">
+
 This repository holds the organizational and teaching material for the Autumn School organized by [Départ de Sentier](https://www.d-d-s.ch/) from October 24-28 in Grosshöchstetten, Switzerland.
 
 ## Community / Chat
