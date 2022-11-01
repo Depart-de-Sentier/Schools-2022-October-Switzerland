@@ -14,7 +14,7 @@ You can join the Gitter community for messaging during the autumn school:
 
 | group | project | GitHub | presentation |
 | ----- | ------- | ------ | ------------ |
-| U-1 | Charcrete (Biochar + Concrete) | N/A | [U-1.pdf](https://github.com/Depart-de-Sentier/Autumn-School-2022/tree/main/presentations/U-1.pdf)|
+| U-1 | Charcrete (Biochar + Concrete) | [`Charcrete-LCA`](https://github.com/mijafro/Charcrete-LCA) | [U-1.pdf](https://github.com/Depart-de-Sentier/Autumn-School-2022/tree/main/presentations/U-1.pdf)|
 | U-2 | Hotel Moeschberg Sustainability Analysis | [`moeschpond`](https://github.com/tyrael147/moeschpond/) | [U-2.pdf](https://github.com/Depart-de-Sentier/Autumn-School-2022/tree/main/presentations/SR1-2.pdf) |
 | SR1-1 | Prospective LCA of Tandem PV | [`Team_PV`](https://github.com/alideoro/Team_PV) | [SR1-1.pdf](https://github.com/Depart-de-Sentier/Autumn-School-2022/tree/main/presentations/SR1-1.pdf) |
 | SR1-2 | Electrification of Industry | [`JACCH-E`](https://github.com/Akxst/JACCH-E) | [SR1-2.pdf](https://github.com/Depart-de-Sentier/Autumn-School-2022/tree/main/presentations/SR1-2.pdf) |
